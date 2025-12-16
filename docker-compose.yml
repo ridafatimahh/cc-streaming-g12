@@ -54,3 +54,5 @@ services:
       - "8501:8501"
     environment:
       - MODEL_NAME=my_model
+
+Add Docker Compose config
